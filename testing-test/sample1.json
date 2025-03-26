@@ -6,5 +6,6 @@
     "camp": 929234312,
     "plural": "settle",
     "pool": ["ns1","ns2"],
-    "autoscale": "true"
+    "autoscale": "true",
+    "name": "dynatrace-cnfg"
 }
