@@ -6,5 +6,6 @@
     "camp": 929234312,
     "plural": "settle",
     "pool": "ns1",
-    "autoscale": "true"
+    "autoscale": "true",
+    "name": "test"
 }
